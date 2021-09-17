@@ -1,5 +1,5 @@
  <div>
-  <a href="www.linkedin.com/in/juanpeixoto1998">
+  <a href="https://github.com/Juan-Peixoto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juan-Peixoto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
 </div>  
