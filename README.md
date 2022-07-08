@@ -28,9 +28,9 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Juan-Peixoto&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Juan-Peixoto&show_icons=true&theme=tokyonight" alt="maykbrito's stats"/>
 </p>
 
 <p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Peixoto&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Peixoto&layout=compact&theme=tokyonight" alt="maykbrito's most languages"/>
 </p>
