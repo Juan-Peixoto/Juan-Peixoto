@@ -11,9 +11,7 @@
 
 - ⚡ Fun fact I'm **Skater, Hooper :basketball: & Gamer :video_game:!!!**
 
-<br><br>
-
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Technologies that i use
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -26,11 +24,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
-<br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
-
-<br><br>
 
 <p align="center">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Juan-Peixoto&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
