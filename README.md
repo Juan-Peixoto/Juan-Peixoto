@@ -1,7 +1,7 @@
 <h1 align="left">Hi :smile:, I'm Juan Peixoto</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Juan-Peixoto&color=yellow" alt="Profile views" /></p>
 
-- 🔥 Junior Developer ( NodeJS | ReactJS | ElectronJS ) 
+- 🔥 Junior Developer ( NodeJS | ReactJS | React Native | ElectronJS | Angular ) 
 
 - 🔭 I’m amateur programer aiming to be professional!
 
