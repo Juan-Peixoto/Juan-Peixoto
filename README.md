@@ -1,5 +1,4 @@
 <h1 align="left">Hi :smile:, I'm Juan Peixoto</h1>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Juan-Peixoto&color=yellow" alt="Profile views" /></p>
 
 - 🔥 Junior Developer 
 
@@ -21,7 +20,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-
 
 ## ⚙️ &nbsp;GitHub Analytics
 
